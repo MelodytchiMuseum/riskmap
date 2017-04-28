@@ -8,7 +8,7 @@ RiskMap relies on the entire SURiskLibrary folder. As its name implies, the fold
 ---
 
 Though my memory is not as clear regarding this project, I will try to pinpoint my contributions within SURiskLibrary.
-*Continent.cs was programmed entirely by me.
-*Map.cs was mostly programmed by me; the addContinent, addTerritory, and getTerritory functions may have not been programmed by me. Why this may be the case, I honestly do not remember.
-*ReinforcementCard.cs may was programmed entirely by me.
-*Territory.cs was programmed entirely by me. I do not remember why exactly the addNeighbor's comment is "out of style", but I do remember programming it.
+* Continent.cs was programmed entirely by me.
+* Map.cs was mostly programmed by me; the addContinent, addTerritory, and getTerritory functions may have not been programmed by me. Why this may be the case, I honestly do not remember.
+* ReinforcementCard.cs may was programmed entirely by me.
+* Territory.cs was programmed entirely by me. I do not remember why exactly the addNeighbor's comment is "out of style", but I do remember programming it.
